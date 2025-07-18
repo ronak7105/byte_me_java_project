@@ -1,5 +1,0 @@
-Customer: roni
-Status: Pending
-Items:
-  - coke x2
--------------------------------
