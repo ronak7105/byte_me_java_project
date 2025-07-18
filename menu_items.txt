@@ -1,4 +1,0 @@
-coke,100.0,drink,true
-wafers,10.0,snack,true
-chips,50.0,snack,true
-pepsi,100.0,drink,false
